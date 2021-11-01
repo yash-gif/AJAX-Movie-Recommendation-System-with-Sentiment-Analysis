@@ -4,7 +4,19 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews.
 
+
+![](Screenshot%20(1465).png)
+
 #### check here for live demo -- https://movie-recommendation-system12.herokuapp.com/
+
+
+![](Screenshot%20(1459).png)
+![](Screenshot%20(1460).png)
+![](Screenshot%20(1461).png)
+![](Screenshot%20(1462).png)
+![](Screenshot%20(1463).png)
+![](Screenshot%20(1464).png)
+
 
 
 #### How to get the API key?
